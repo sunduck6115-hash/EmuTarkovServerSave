@@ -1,0 +1,67 @@
+{
+  "client": {
+    "useBtr": true,
+    "friendlyFire": true,
+    "dynamicVExfils": false,
+    "allowFreeCam": false,
+    "allowSpectateFreeCam": false,
+    "blacklistedItems": [],
+    "forceSaveOnDeath": false,
+    "mods": {
+      "required": [],
+      "optional": []
+    },
+    "useInertia": true,
+    "sharedQuestProgression": false,
+    "canEditRaidSettings": true,
+    "enableTransits": true,
+    "anyoneCanStartRaid": false,
+    "allowNamePlates": true
+  },
+  "server": {
+    "SPT": {
+      "http": {
+        "ip": "26.155.130.29",
+        "port": 6969,
+        "backendIp": "26.155.130.29",
+        "backendPort": 6969
+      },
+      "disableSPTChatBots": true
+    },
+    "webhook": {
+      "enabled": false,
+      "name": "Fika Server",
+      "avatarUrl": "https://github.com/project-fika/Fika-Server-CSharp/blob/main/FikaWebApp/wwwroot/images/FIKA_LOGO.png?raw=true",
+      "url": ""
+    },
+    "allowItemSending": true,
+    "itemSendingStorageTime": 7,
+    "sentItemsLoseFIR": true,
+    "launcherListAllProfiles": true,
+    "sessionTimeout": 5,
+    "showDevProfile": true,
+    "showNonStandardProfile": true,
+    "adminIds": [],
+    "apiKey": "nRZ5KXzAiIkD3MipbFcGdeIiZkET1fgrNbavBGjSQ"
+  },
+  "natPunchServer": {
+    "enable": false,
+    "port": 6790,
+    "natIntroduceAmount": 1
+  },
+  "headless": {
+    "profiles": {
+      "amount": 0,
+      "aliases": {}
+    },
+    "scripts": {
+      "generate": true,
+      "forceIp": "https://127.0.0.1:6969"
+    },
+    "setLevelToAverageOfLobby": true,
+    "restartAfterAmountOfRaids": 0
+  },
+  "background": {
+    "enable": true
+  }
+}

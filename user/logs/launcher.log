@@ -1,0 +1,16 @@
+[2025-12-10 19:52:22] ==== Launcher Started ====
+[2025-12-10 19:52:22][Info] Using launcher config at: D:\Emutarkov\SPT\user\launcher\config.json
+[2025-12-10 19:52:22][DEV_MODE][Info] Running in dev mode, not resetting
+[2025-12-10 19:52:22][DEV_MODE][Info] Connected to server: https://26.155.130.29:6969 - SPT MatchingVersion: 4.0.6
+[2025-12-10 19:52:27][DEV_MODE][Info] >>> Launching Game
+[2025-12-10 19:52:27][DEV_MODE][Info] >>> Account: HutaoShinbal
+[2025-12-10 19:52:27][DEV_MODE][Info] >>> Server : https://26.155.130.29:6969
+[2025-12-10 19:52:27][DEV_MODE][Info] [LaunchGame] spt-core.dll version: 4.0.6
+[2025-12-10 19:52:27][DEV_MODE][Info] [LaunchGame] Installed in Live :: NO
+[2025-12-10 19:52:27][DEV_MODE][Info] [LaunchGame] Setup Game Files ...
+[2025-12-10 19:52:27][DEV_MODE][Info] Recursive Removal: D:\Emutarkov\Logs
+[2025-12-10 19:52:27][DEV_MODE][Info] Recursive Removal: D:\Emutarkov\Logs\log_2025.12.09_10-34-56_0.16.9.0.40087
+[2025-12-10 19:52:27][DEV_MODE][Info] [LaunchGame] Game Validation   :: OK
+[2025-12-10 19:52:27][DEV_MODE][Info] [LaunchGame] Valid Game Path   :: OK
+[2025-12-10 19:52:28][DEV_MODE][Info] [LaunchGame] Applying Patch    :: OK
+[2025-12-10 19:52:28][DEV_MODE][Info] [LaunchGame] Game process started
